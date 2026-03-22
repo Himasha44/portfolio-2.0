@@ -22,21 +22,21 @@
     const projectData = [
       {
         id: 1,
-        title: 'E-commerce Website',
-        description: 'A fully responsive e-commerce website with product catalog, shopping cart, user authentication, and payment integration. The project focuses on providing a seamless shopping experience on all devices.',
-        image: 'images/Modern Brand Name Initials Typography Logo (3).png',
-        technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
-        liveLink: 'javascript:void(0)',
-        codeLink: 'javascript:void(0)'
+        title: 'Campus Lost & Found',
+        description: 'A Figma Prototype for a lost and found system designed for university campuses. The app allows users to report lost items, browse found items, and connect with others to reunite lost belongings with their owners.',
+        image: 'images/foundly.png',
+        technologies: ['Figma'],
+        liveLink: 'https://www.figma.com/proto/Tv19G9BMY3hgIB6rQAuC5I/Foundly---Campus-Lost---Found?node-id=0-1&t=uqf3Yiw2y0qRVoid-1',
+        codeLink: 'https://www.figma.com/proto/Tv19G9BMY3hgIB6rQAuC5I/Foundly---Campus-Lost---Found?node-id=0-1&t=uqf3Yiw2y0qRVoid-1'
       },
       {
         id: 2,
-        title: 'Task Management App',
-        description: 'A comprehensive task management application that helps users organize their daily tasks, set priorities, and track progress. Features include drag-and-drop task organization, deadline reminders, and project categorization.',
-        image: 'images/Playfully Designed Steakie Logo.png',
-        technologies: ['figma'],
-        liveLink: 'javascript:void(0)',
-        codeLink: 'javascript:void(0)'
+        title: 'Hima AI',
+        description: 'A manually trained AI-Model with Python and Node.Js',
+        image: 'images/ai.png',
+        technologies: ['PHP', 'Node.js', 'HTML'],
+        liveLink: 'https://github.com/Himasha44/live-ai-assistant',
+        codeLink: 'https://github.com/Himasha44/live-ai-assistant'
       },
       {
         id: 3,
@@ -44,17 +44,17 @@
         description: 'An online learning platform that connects students with educators. The platform includes features like video lessons, interactive quizzes, progress tracking, and certificate generation upon course completion.',
         image: 'images/Calculator.png',
         technologies: ['HTML', 'CSS', 'JavaScript'],
-        liveLink: 'javascript:void(0)',
-        codeLink: 'javascript:void(0)'
+        liveLink: 'https://github.com/Himasha44/SimpleCal',
+        codeLink: 'https://github.com/Himasha44/SimpleCal'
       },
       {
         id: 4,
         title: 'Portfolio Template',
         description: 'A personal portfolio. This is designed to showcase projects, skills, and experiences in an elegant and modern layout.',
-        image: 'images/Brown Aesthetic Email header (1).png',
-        technologies: ['HTML', 'CSS', 'JavaScript', 'gsap'],
-        liveLink: 'javascript:void(0)',
-        codeLink: 'javascript:void(0)'
+        image: 'images/portfolio.png',
+        technologies: ['HTML', 'CSS', 'JavaScript'],
+        liveLink: 'https://www.linkedin.com/posts/nethmi-himasha-538595261_webdevelopment-frontend-html-activity-7432286723591716864-zLm5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBWCbwBy85VGJEc3la4pzoNQPlj98PefYs',
+        codeLink: 'https://github.com/Himasha44/portfolio-2.0'
       },
       {
         id: 5,
@@ -63,7 +63,7 @@
         image: 'images/discat.png',
         technologies: ['Java', 'Springboot', 'Figma', 'Kotlin'],
         liveLink: 'https://discat.site/',
-        codeLink: 'javascript:void(0)'
+        codeLink: 'https://discat.site/'
       },
       {
         id: 6,
@@ -72,7 +72,7 @@
         image: 'images/Screenshot_2026-02-03_212257-removebg-preview.png',
         technologies: ['Figma'],
         liveLink: 'https://www.figma.com/proto/wKzoyxKxuSa4a5ZcBaRm2n/LeDesign%C3%A9?page-id=93%3A2&node-id=203-2526&starting-point-node-id=203%3A2526&t=pG49jAKYLWxz6EXm-1',
-        codeLink: 'javascript:void(0)'
+        codeLink: 'https://www.figma.com/proto/wKzoyxKxuSa4a5ZcBaRm2n/LeDesign%C3%A9?page-id=93%3A2&node-id=203-2526&starting-point-node-id=203%3A2526&t=pG49jAKYLWxz6EXm-1'
       },
       
       {
@@ -83,6 +83,26 @@
         technologies: ['HTML', 'CSS', 'Javascript'],
         liveLink: 'https://himasha44.github.io/Login-Register-page-with-Flip-Effect/',
         codeLink: 'https://himasha44.github.io/Login-Register-page-with-Flip-Effect/'
+      },
+
+      {
+        id: 8,
+        title: 'Simple PHP CMS',
+        description: 'A simple content management system built with PHP',
+        image: 'images/php website.png',
+        technologies: ['PHP', 'MySQL', 'HTML', 'CSS'],
+        liveLink: 'https://github.com/Himasha44/simple-php-cms',
+        codeLink: 'https://github.com/Himasha44/simple-php-cms'
+      },
+
+      {
+        id: 9,
+        title: 'Tic-Tac-Toe',
+        description: 'A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript',
+        image: 'images/Tic Tac Toe.png',
+        technologies: ['HTML', 'CSS', 'JavaScript'],
+        liveLink: 'https://github.com/Himasha44/Tic_Tac_Toe',
+        codeLink: 'https://github.com/Himasha44/Tic_Tac_Toe'
       }
       
 
